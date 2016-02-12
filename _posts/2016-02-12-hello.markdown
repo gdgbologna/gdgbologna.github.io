@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to GDG Bologna!"
+date:   2016-02-12 21:19:32 +0100
+categories: jekyll update
+---
+Hello!
