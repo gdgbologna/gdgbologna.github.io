@@ -1,19 +1,61 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title:            GDG Bologna
+tagline:          A great community
+description:      Describe your website.
+canonical: http://gdgbologna.com
 
-# Site settings
-title: GDG Bologna
-email: info@gdgbologna.org
-description: > # this means to ignore newlines until "baseurl:"
-  Google Developers Group di Bologna.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gdgbologna.com" # the base hostname & protocol for your site
-twitter_username: gdgbologna
-github_username:  gdgbologna
+# Owner/author information
+owner:
+  name:           GDG Bologna
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          info@gdgbologna.com
+  twitter:        gdgbologna
+  github:         gdgbologna
+  location:       "Bologna, IT"
+  # Plug in your disqus shortname!
 
-# Build settings
-markdown: kramdown
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/gdgbologna
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Rome
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
