@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Google, Google Developers Group, GDG, Bologna]
 image:
   feature: typewriter.jpg
 ---

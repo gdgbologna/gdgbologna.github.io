@@ -1,18 +1,17 @@
 title:            GDG Bologna
-tagline:          A great community
-description:      Describe your website.
+tagline:          Community
+description:      Il sito ufficiale di GDG Bologna, dove scriveremo a proposito dei nostri eventi.
 canonical: http://gdgbologna.com
 
 # Owner/author information
 owner:
   name:           GDG Bologna
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            "Google Developers Group Bologna"
   email:          info@gdgbologna.com
   twitter:        gdgbologna
   github:         gdgbologna
   location:       "Bologna, IT"
-  # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
