@@ -1,7 +1,5 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Home"
 tags: [Google, Google Developers Group, GDG, Bologna]
-image:
-  feature: typewriter.jpg
 ---
