@@ -14,7 +14,7 @@ date:   2016-02-28
 Scrivici!
 
 E tu cosa ne pensi? Hai le nostre stesse passioni?
-Seguici sui social per sapere qual e' il prossimo evento in programma, ti aspettiamoi!
+Seguici sui social per sapere qual e' il prossimo evento in programma, ti aspettiamo!
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zYqxIJZmpTVI.kGhUu_bLLyCQ" width="640" height="480"></iframe>
