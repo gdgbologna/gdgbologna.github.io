@@ -1,60 +1,26 @@
-title:            GDG Bologna
-tagline:          Community
-description:      Il sito ufficiale di GDG Bologna, dove scriveremo a proposito dei nostri eventi.
-canonical: http://gdgbologna.com
+title: GDG Bologna
+description: Il sito ufficiale di GDG Bologna, dove scriveremo a proposito dei nostri eventi.
 
-# Owner/author information
-owner:
-  name:           GDG Bologna
-  avatar:         avatar.png
-  bio:            "Google Developers Group Bologna"
-  email:          info@gdgbologna.com
-  twitter:        gdgbologna
-  github:         gdgbologna
-  location:       "Bologna, IT"
+url: http://gdgbologna.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
-
-# Open Graph customization
-opengraph:
-  locale:           en_US
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/gdgbologna
-    external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Rome
-future:      true
+markdown: redcarpet
 highlighter: rouge
-markdown:    kramdown
+gems: [jekyll-paginate]
+paginate: 5
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+social:
+   github: gdgbologna
+   twitter: gdgbologna
+   facebook: gdgbologna
+   email: info@gdgbologna.com
 
-sass:
-    style: :compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+google_analytics: "UA-74403554-1"
