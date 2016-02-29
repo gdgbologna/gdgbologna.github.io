@@ -15,6 +15,7 @@ $lime:  #01FF70;
 $yellow:  #FFDC00;
 $orange:  #FF851B;
 $red:     #FF4136;
+$bordeaux:#8B2E2E;
 $fuchsia: #F012BE;
 $purple:  #B10DC9;
 $maroon:  #85144B;
@@ -25,11 +26,11 @@ $grey:   #aaa;
 $black:  #111;
 
 // Color variables
-$primary-color: seagreen;
+$primary-color: $bordeaux;
 $secondary-color: #233E5B;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
-$background-color: seagreen;
+$background-color: $bordeaux;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
