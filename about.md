@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About - GDG Bologna
-image: logo.png
+image: logo_small.png
 ---
 
 <div class="post">
