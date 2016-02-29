@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello Bologna!"
 date:   2016-02-28
+image: presentazione/cover.png
 ---
 **<span class="dropcap">S</span>iamo il GDG Bologna** (Google Developers Group di Bologna), una community indipendente che nasce come punto di incontro per sviluppatori, studenti ed appassionati di informatica, per creare un ambiente di confronto e di crescita.
 
@@ -15,6 +16,5 @@ Scrivici!
 
 E tu cosa ne pensi? Hai le nostre stesse passioni?
 Seguici sui social per sapere qual e' il prossimo evento in programma, ti aspettiamo!
-
 
 <p><iframe src="https://www.google.com/maps/d/u/0/embed?mid=zYqxIJZmpTVI.kGhUu_bLLyCQ" width="640" height="480"></iframe></p>
