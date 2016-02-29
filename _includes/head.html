@@ -6,8 +6,8 @@
     <meta property="og:title" content="GDG Bologna" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="GDG Bologna homepage" />
-    <meta property="og:url" content="http://www.gdgbologna.com/" />
-    <meta property="og:image" content="{{ '/assets/img/logo.png' | prepend: site.url | prepend: site.baseurl }}" />
+    <meta property="og:url" content="{{page.url | prepend: site.url }}" />
+    <meta property="og:image" content="{{ site.url | prepend: site.baseurl }}/{{ page.image }}" />
     <title>{{ page.title }}</title>
 
     <!-- Favicon -->
