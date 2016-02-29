@@ -5,7 +5,7 @@
     <meta name="description" content="GDG Bologna homepage">
     <meta property="og:title" content="GDG Bologna" />
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="GDG Bologna homepage" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}" />
     <meta property="og:url" content="{{page.url | prepend: site.url }}" />
     <meta property="og:image" content="{{ site.url | prepend: site.baseurl }}/assets/img/{{ page.image }}" />
     <title>{{ page.title }}</title>
