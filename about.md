@@ -1,7 +1,8 @@
 ---
 layout: default
 title: About - GDG Bologna
-image: logo_small.png
+image: logob_small.png
+description: Google Developers Group Bologna e' una giovane community di sviluppatori ed appassionati di informatica del territorio bolognese, che propone come punti di incontro seminari e discussioni su tecnologie Google e non solo.
 ---
 
 <div class="post">
