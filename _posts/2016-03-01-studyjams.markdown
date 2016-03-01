@@ -7,14 +7,12 @@ image: studyjams/featured.png
 <span class="dropcap">I</span>l nostro primo evento come GDG Bologna sarà **Study Jams**!
 Si tratta di una serie di incontri **gratuiti** basati sulla struttura del corso online di [Udacity](https://www.udacity.com/course/android-development-for-beginners--ud837) e promossi dai Google Developers Group, dedicati all'apprendimento delle basi dello sviluppo di applicazioni Android.
 
-Si tratta di un corso per **principianti:** se stai muovendo i primi passi nel mondo Android o della programmazione in generale, Study Jams è una buona opportunità per ricevere assistenza, imparando al fianco di altri studenti e di tutor che guideranno in questo percorso.
+Si tratta di un corso per **principianti:** se stai muovendo i primi passi nel mondo Android o della programmazione in generale, Study Jams è un'ottima opportunità per ricevere assistenza, imparando al fianco di altri studenti e col supporto di tutor che ti guideranno in questo percorso.
 
-Potete prenotare i biglietti gratuitamente su [**Eventbrite**](https://www.eventbrite.it/e/biglietti-gdg-bologna-study-jam-22072343975).
-
-Evento su [**Facebook**](https://www.facebook.com/events/529732870539105/).
+E' possibile prenotare i biglietti gratuitamente su [**Eventbrite**](https://www.eventbrite.it/e/biglietti-gdg-bologna-study-jam-22072343975) e condividere l'evento su [**Facebook**](https://www.facebook.com/events/529732870539105/).
 
 ## Quando?
-Il corso è suddiviso in **4 eventi**, che si terranno in date:
+Il corso è suddiviso in **4 eventi**, che si terranno nelle date:
 
   - 5 Aprile
   - 12 Aprile
@@ -36,8 +34,8 @@ Offriranno il loro supporto anche:
 
 che sono studenti della facoltà di Informatica all'università di Bologna e Manager del GDG Bologna.
 
-## A presto!
+Per qualsiasi domanda potete contattarci sulle pagine social di GDG Bologna o alla mail [info@gdgbologna.com](mailto:info@gdgbologna.com).
 
 Vi aspettiamo carichi e numerosi!
 
-Per qualsiasi domanda ci potete contattare sulle pagine social di GDG Bologna o alla mail [info@gdgbologna.com](mailto:info@gdgbologna.com).
+## A presto!
