@@ -9,7 +9,7 @@ Si tratta di una serie di incontri **gratuiti** basati sulla struttura del corso
 
 Si tratta di un corso per **principianti:** se stai muovendo i primi passi nel mondo Android o della programmazione in generale, Study Jams è un'ottima opportunità per ricevere assistenza, imparando al fianco di altri studenti e col supporto di tutor che ti guideranno in questo percorso.
 
-E' possibile prenotare i biglietti gratuitamente su [**Eventbrite**](https://www.eventbrite.it/e/biglietti-gdg-bologna-study-jam-22072343975) e condividere l'evento su [**Facebook**](https://www.facebook.com/events/529732870539105/).
+È possibile prenotare i biglietti gratuitamente su [**Eventbrite**](https://www.eventbrite.it/e/biglietti-gdg-bologna-study-jam-22072343975) e condividere l'evento su [**Facebook**](https://www.facebook.com/events/529732870539105/).
 
 ## Quando?
 Il corso è suddiviso in **4 eventi**, che si terranno nelle date:
