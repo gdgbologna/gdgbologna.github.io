@@ -40,4 +40,4 @@ che sono studenti della facoltà di Informatica all'università di Bologna e Man
 
 Vi aspettiamo carichi e numerosi!
 
-Per qualsiasi domanda ci potete contattare sulle pagine social di GDG Bologna o alla mail [info@gdgbologna.com](info@gdgbologna.com).
+Per qualsiasi domanda ci potete contattare sulle pagine social di GDG Bologna o alla mail [info@gdgbologna.com](mailto:info@gdgbologna.com).
